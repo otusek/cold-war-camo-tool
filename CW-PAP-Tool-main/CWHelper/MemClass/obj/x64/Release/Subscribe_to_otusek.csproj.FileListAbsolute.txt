@@ -1,0 +1,10 @@
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\Subscribe_to_otusek.csproj.AssemblyReference.cache
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\MemClass.Main.resources
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\Subscribe_to_otusek.csproj.GenerateResource.cache
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\Subscribe_to_otusek.csproj.CoreCompileInputs.cache
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\bin\x64\Release\CamoTool.exe.config
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\bin\x64\Release\CamoTool.exe
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\bin\x64\Release\CamoTool.pdb
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\CamoTool.Properties.Resources.resources
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\CamoTool.exe
+C:\Users\oliwierr\Desktop\CW-PAP-Tool-main\CW-PAP-Tool-main\CWHelper\MemClass\obj\x64\Release\CamoTool.pdb
